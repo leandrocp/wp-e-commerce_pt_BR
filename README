@@ -1,0 +1,18 @@
+Autor: Leandro Cesquini Pereira
+Versão da Tradução: 0.2
+Versão do wp-e-commerce: 3.7
+Contato: leandro.cesquini@gmail.com
+
+Por favor, se encontrar algum erro, ou mesmo uma tradução ruim, avise, e ajude
+a melhorar o suporte pt_BR a este plugin.
+Algumas palavras não estão traduzidas pois não existem no arquivo de tradução,
+ainda é necessário alterar a interface.
+
+
+INSTALAÇÃO:
+
+1. Copiar o arquivo pt_BR.php para o seguinte diretório:
+wp-content/plugins/wp-e-commerce/languages/
+
+2. Na administração do Wordpress, alterar:
+Products > Settings > Language
